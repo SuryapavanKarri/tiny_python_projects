@@ -2,3 +2,4 @@
 
 test:
 	pytest -xv test.py
+prin(PHONY)
